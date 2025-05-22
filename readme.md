@@ -1,6 +1,7 @@
 # ⚡ Quick Small Projects
 
-A collection of fast, fun, and focused coding projects — built in a day or two, just for the thrill of it.
+A collection of fast, fun, and focused coding projects.
+built in a day or two, just for the thrill of it.
 
 No overthinking. No endless planning.  
 Just code, learn, repeat.
