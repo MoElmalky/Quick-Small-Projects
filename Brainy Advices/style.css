@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: #241d4a;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+main{
+    align-content: center;
+    flex: 1;
+}
+button{
+    border-style:hidden;
+    border-radius:.4cap;
+    font-size: large;
+    color: #000;
+}
+button:active {
+  background-color: #837e7e;
+  transform: scale(0.98);
+}
